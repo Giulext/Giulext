@@ -1,16 +1,25 @@
 ## Hi there 👋
 
-<!--
-**Giulext/Giulext** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# I'm Kürşad
 
-Here are some ideas to get you started:
+🎓 Electronics Technology Student  
+💻 Learning SQL & Database Administration  
+🎯 Goal: Become a MySQL Database Administrator  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Skills
+- SQL
+- MySQL
+- phpMyAdmin
+- Database Design
+- Social Engineering
+- Web Administration
+- German/English Language
+
+## 📚 Currently Learning
+- Advanced SQL Queries
+- Database Optimization
+- Data Modeling
+
+## 📫 Contact
+- GitHub: github.com/Giulext
+- Instagram: instagram.com/kursvd_
